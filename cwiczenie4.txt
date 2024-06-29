@@ -1,1 +1,2 @@
 Nowy plik cwiczenie4.txt
+Akutalizacja pliku cwiczenie4.txt
